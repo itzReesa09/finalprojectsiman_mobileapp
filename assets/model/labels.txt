@@ -1,0 +1,10 @@
+0 Guitar
+1 Piano
+2 Cello
+3 Violin
+4 Drums 
+5 Trumpets
+6 Flute 
+7 Saxophone
+8 Harp
+9 Clarinet
